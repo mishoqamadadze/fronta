@@ -83,7 +83,7 @@
     height: 40px;
     animation: wheel 1s linear infinite;
 }
-.forontwheel{
+.frontwheel{
     left: 43px;
     position: absolute;
 }
